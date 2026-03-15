@@ -1,5 +1,7 @@
 # Banking Marketing Data Analysis Project
 
+**Live Website Link:** [https://bank-marketing-analysis-project.streamlit.app/](https://bank-marketing-analysis-project.streamlit.app/)
+
 Bank Marketing Campaign Analytics dashboard built with **Power BI** and presented in a **Streamlit app**. This project demonstrates end-to-end data analytics, including **synthetic banking data**, **sentiment analysis of customer reviews**, and **interactive data exploration**.
 
 ---
