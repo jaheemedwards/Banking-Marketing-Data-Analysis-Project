@@ -9,8 +9,9 @@ st.set_page_config(layout="wide")
 # -------------------------
 # TABS
 # -------------------------
-tab1, tab2, tab3 = st.tabs([
+tab1, tab2, tab3 , tab4 = st.tabs([
     "Overview",
+    "Data Analysis",
     "Dashboard Screenshots",
     "Data Collection"
 ])
@@ -67,11 +68,43 @@ with tab1:
             mime="application/pdf"
         )
 
+# -------------------------
+# DATA ANALYSIS TAB
+# -------------------------
+
+with tab2:
+
+    presentation_path = "screenshots_and_video/Banking Marketing Data Analysis Project Presentation.pdf"
+
+    col1, col2, col3 = st.columns([1,2,1])
+
+    with col2:
+
+        with open(presentation_path, "rb") as f:
+            st.download_button(
+                label="Download Presentation PDF",
+                data=f,
+                file_name="Banking Marketing Data Analysis Project Presentation Jaheem Edwards.pdf",
+                mime="application/pdf"
+            )
+
+        with open(presentation_path, "rb") as f:
+            pdf_bytes = f.read()
+
+        base64_pdf = base64.b64encode(pdf_bytes).decode("utf-8")
+
+        pdf_display = f"""
+        <iframe src="data:application/pdf;base64,{base64_pdf}"
+        width="100%" height="1000" type="application/pdf"></iframe>
+        """
+
+        st.markdown(pdf_display, unsafe_allow_html=True)
+
 
 # -------------------------
 # SCREENSHOTS TAB
 # -------------------------
-with tab2:
+with tab3:
 
     st.header("Power BI Dashboard Screenshots")
 
@@ -91,7 +124,7 @@ with tab2:
 # -------------------------
 # DATA COLLECTION TAB
 # -------------------------
-with tab3:
+with tab4:
 
     st.title("Data Collection")
 
