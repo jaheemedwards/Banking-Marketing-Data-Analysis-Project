@@ -53,7 +53,7 @@ with tab1:
         </video>
         """
 
-        components.html(video_html, height=400)
+        components.html(video_html, height=546)     # actual video height
 
     st.divider()
 
