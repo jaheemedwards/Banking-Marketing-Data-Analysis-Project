@@ -76,29 +76,22 @@ with tab2:
 
     presentation_path = "screenshots_and_video/Banking Marketing Data Analysis Project Presentation.pdf"
 
-    col1, col2, col3 = st.columns([1,2,1])
-
-    with col2:
-
-        with open(presentation_path, "rb") as f:
+    with open(presentation_path, "rb") as f:
             st.download_button(
                 label="Download Presentation PDF",
                 data=f,
                 file_name="Banking Marketing Data Analysis Project Presentation Jaheem Edwards.pdf",
                 mime="application/pdf"
             )
+    
+    from pdf2image import convert_from_path
+    
+    images = convert_from_path(presentation_path)
 
-        with open(presentation_path, "rb") as f:
-            pdf_bytes = f.read()
+    for img in images:
+        st.image(img)
 
-        base64_pdf = base64.b64encode(pdf_bytes).decode("utf-8")
-
-        pdf_display = f"""
-        <iframe src="data:application/pdf;base64,{base64_pdf}"
-        width="100%" height="1000" type="application/pdf"></iframe>
-        """
-
-        st.markdown(pdf_display, unsafe_allow_html=True)
+    
 
 
 # -------------------------
