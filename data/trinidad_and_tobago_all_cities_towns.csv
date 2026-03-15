@@ -1,0 +1,285 @@
+city_id,City/Town,Region
+1,Aranguez,San Juan-Laventille
+2,Arima,Arima
+3,Arena,Couva-Tabaquite-Talparo
+4,Arnos Vale,Tobago
+5,Arouca,Tunapuna-Piarco
+6,Arquart Village,Penal-Debe
+7,Auchenskeoch,Tobago
+8,Auzonville,Tunapuna-Piarco
+9,Avocat,Siparia
+10,Bacolet,Tobago
+11,Balmain,Couva-Tabaquite-Talparo
+12,Bamboo,San Juan-Laventille
+13,Bamboo No. 2,Tunapuna-Piarco
+14,Bangladesh,Tunapuna-Piarco
+15,Barataria,San Juan-Laventille
+16,Barrackpore,Penal-Debe
+17,Basta Hall,Couva-Tabaquite-Talparo
+18,Beetham Estate Gardens,Port of Spain
+19,Bethel,Tobago
+20,Belle Garden,Tobago
+21,Belmont,Port of Spain
+22,Ben Lomond,Couva-Tabaquite-Talparo
+23,Biche,Rio Claro-Mayaro
+24,Black Rock,Tobago
+25,Blanchisseuse,Tunapuna-Piarco
+26,Boissiere Village,Diego Martin
+27,Bon Accord,Tobago
+28,Bon Air Development,Tunapuna-Piarco
+29,Bonne Aventure,Couva-Tabaquite-Talparo
+30,Bonasse,Siparia
+31,Borde Narve Village,Princes Town
+32,Bourg Mulatresse,San Juan-Laventille
+33,Brasso,Couva-Tabaquite-Talparo
+34,Brasso Seco,Tunapuna-Piarco
+35,Brazil,Couva-Tabaquite-Talparo
+36,Brickfield,Couva-Tabaquite-Talparo
+37,Brighton,Siparia
+38,Buccoo,Tobago
+39,Buen Intento Village,Princes Town
+40,Buenos Ayres,Siparia
+41,Caigual,Sangre Grande
+42,Calcutta Settlement,Couva-Tabaquite-Talparo
+43,Calder Hall,Tobago
+44,California,Couva-Tabaquite-Talparo
+45,Canaan,Tobago
+46,Canaan,Penal-Debe
+47,Cantaro,San Juan-Laventille
+48,Carapichaima,Couva-Tabaquite-Talparo
+49,Carenage,Diego Martin
+50,Carli Bay,Couva-Tabaquite-Talparo
+51,Carlsen Field,Couva-Tabaquite-Talparo
+52,Carnbee,Tobago
+53,Cascade,San Juan-Laventille
+54,Castara,Tobago
+55,Caura,Tunapuna-Piarco
+56,Cedar Hill Village,Princes Town
+57,Cedros,Siparia
+58,Centeno,Tunapuna-Piarco
+59,Chaguanas,Chaguanas
+60,Chaguaramas,Diego Martin
+61,Champs Fleurs,San Juan-Laventille
+62,Chandernagore Village,Couva-Tabaquite-Talparo
+63,Charlotteville,Tobago
+64,Charuma,Mayaro-Rio Claro
+65,Chase Village,Couva-Tabaquite-Talparo
+66,Chatham,Siparia
+67,Churkoo Village,Princes Town
+68,Claxton Bay,Couva-Tabaquite-Talparo
+69,Cocorite,Diego Martin
+70,Cocoyea Village,San Fernando
+71,Congo Village,Penal-Debe
+72,Coryal,Sangre Grande
+73,Couva,Couva-Tabaquite-Talparo
+74,Culloden,Tobago
+75,Cumaca,Sangre Grande
+76,Cumuto,Sangre Grande
+77,Cunupia,Chaguanas
+78,Curepe,Tunapuna-Piarco
+79,Cushe,Mayaro-Rio Claro
+80,D'Abadie,Tunapuna-Piarco
+81,Datsunville,Chaguanas
+82,Debe,Penal-Debe
+83,Delaford,Tobago
+84,Diamond Vale,Diego Martin
+85,Diamond Village,Penal-Debe
+86,Dibe,Diego Martin
+87,Diego Martin,Diego Martin
+88,Dinsley,Tunapuna-Piarco
+89,Dow Village Couva,Couva-Tabaquite-Talparo
+90,Dow Village Siparia,Siparia
+91,Duncan Village,Penal-Debe
+92,Ecclesville,Rio Claro-Mayaro
+93,Eckel Village,Couva-Tabaquite-Talparo
+94,Edinburgh,Chaguanas
+95,El Dorado,Tunapuna-Piarco
+96,El Socorro,Tunapuna-Piarco
+97,Enterprise,Chaguanas
+98,Endeavour,Chaguanas
+99,Erin,Siparia
+100,Exchange,Couva-Tabaquite-Talparo
+101,Febeau Village,San Juan-Laventille
+102,Felicity,Chaguanas
+103,Fifth Company,Princes Town
+104,Fishing Pond,Sangre Grande
+105,Flanigin Town,Couva-Tabaquite-Talparo
+106,Freeport,Couva-Tabaquite-Talparo
+107,Forres Park,Couva-Tabaquite-Talparo
+108,Four Roads,Diego Martin
+109,Frederick Settlement,Tunapuna-Piarco
+110,Friendship Village,Princes Town
+111,Fullarton,Siparia
+112,Fyzabad,Siparia
+113,Gasparillo,Couva-Tabaquite-Talparo
+114,Glamorgan,Tobago
+115,Glencoe,Diego Martin
+116,Golconda,Princes Town
+117,Gonzales,Port of Spain
+118,Gopaul Lands,San Fernando
+119,Goodwood,Tobago
+120,Goodwood Park,Diego Martin
+121,Gran Couva,Couva-Tabaquite-Talparo
+122,Grande Riviere,Sangre Grande
+123,Guaico,Sangre Grande
+124,Guanapo,Sangre Grande
+125,Guapo,Point Fortin
+126,Guayaguayare,Rio Claro-Mayaro
+127,Gulf View,San Fernando
+128,Hardbargain,Princes Town
+129,Hindustan,Princes Town
+130,Hope,Tobago
+131,Icacos,Siparia
+132,Iere Village,Princes Town
+133,Indian Chain,Couva-Tabaquite-Talparo
+134,Indian Walk,Princes Town
+135,Jerningham Junction,Chaguanas
+136,John Dial,Tobago
+137,John John,Port of Spain
+138,Jordan Hill,Princes Town
+139,Kelly Village,Tunapuna-Piarco
+140,Kernaham,Rio Claro-Mayaro
+141,Kumar Village,Princes Town
+142,L'Anse Fourmi,Tobago
+143,L'Anse Mitan,Diego Martin
+144,La Brea,Siparia
+145,La Canoa,San Juan-Laventille
+146,La Horquetta,Tunapuna-Piarco
+147,La Paille,Tunapuna-Piarco
+148,La Romaine,San Fernando
+149,Las Lomas,Tunapuna-Piarco
+150,Lambeau,Tobago
+151,Las Cuevas,San Juan-Laventille
+152,Laventille,San Juan-Laventille
+153,Lengua,Princes Town
+154,Les Coteaux,Tobago
+155,Longdenville,Chaguanas
+156,Lopinot,Tunapuna-Piarco
+157,Los Bajos,Siparia
+158,Louis D'Or,Tobago
+159,Lowlands,Tobago
+160,Macoya,Tunapuna-Piarco
+161,Madras Settlement,Couva-Tabaquite-Talparo
+162,Mairao Village,Rio Claro-Mayaro
+163,Malabar,Arima
+164,Malick,San Juan-Laventille
+165,Manzanilla,Sangre Grande
+166,Marabella,San Fernando
+167,Maracas,San Juan-Laventille
+168,Maraval,Diego Martin
+169,Mason Hall,Tobago
+170,Matelot,Sangre Grande
+171,Matura,Sangre Grande
+172,Mausica,Tunapuna-Piarco
+173,Mayaro,Rio Claro-Mayaro
+174,Mayo,Couva-Tabaquite-Talparo
+175,Mc Bean,Couva-Tabaquite-Talparo
+176,Mohammedville,San Juan-Laventille
+177,Mon Repos,San Fernando
+178,Montrose,Chaguanas
+179,Monkey Town,Penal-Debe
+180,Montserrat,Couva-Tabaquite-Talparo
+181,Morang,Tunapuna-Piarco
+182,Moriah,Tobago
+183,Morne Diablo,Penal-Debe
+184,Morne Quinton,Tobago
+185,Moruga,Princes Town
+186,Morvant,San Juan-Laventille
+187,Mount D'Or,San Juan-Laventille
+188,Mount Lambert,San Juan-Laventille
+189,Mount Saint George,Tobago
+190,Mount Stewart,Princes Town
+191,Mucurapo,Port of Spain
+192,Navet,Couva-Tabaquite-Talparo
+193,New Grant,Princes Town
+194,O'Meara,Arima
+195,Orange Hill,Tobago
+196,Orange Valley,Couva-Tabaquite-Talparo
+197,Oropune Village,Tunapuna-Piarco
+198,Oropouche,Siparia
+199,Ortoire,Mayaro-Rio Claro
+200,Otaheite,Siparia
+201,Palmyra,Princes Town
+202,Palo Seco,Siparia
+203,Patna Village,Diego Martin
+204,Pembroke,Tobago
+205,Penal,Penal-Debe
+206,Penal Rock,Princes Town
+207,Petit Trou,Sangre Grande
+208,Petit Valley,Diego Martin
+209,Phoenix Park,Couva-Tabaquite-Talparo
+210,Piarco,Tunapuna-Piarco
+211,Pierreville,Rio Claro-Mayaro
+212,Piparo,Couva-Tabaquite-Talparo
+213,Plaisance,Rio Claro-Mayaro
+214,Plaisance Park,Couva-Tabaquite-Talparo
+215,Plymouth,Tobago
+216,Point Fortin,Point Fortin
+217,Point Lisas,Couva-Tabaquite-Talparo
+218,Pointe-à-Pierre,Couva-Tabaquite-Talparo
+219,Poole,Mayaro-Rio Claro
+220,Port of Spain,Port of Spain
+221,Preysal,Couva-Tabaquite-Talparo
+222,Princes Town,Princes Town
+223,Quarry Village,Siparia
+224,Quinam,Siparia
+225,Rockly Vale,Tobago
+226,Rampanalgas,Sangre Grande
+227,Rancho Quemado,Siparia
+228,Ravin Anglais,Sangre Grande
+229,Redhead,Sangre Grande
+230,Rio Claro,Rio Claro-Mayaro
+231,Roussillac,Siparia
+232,Roxborough,Tobago
+233,St. Ann's,San Juan-Laventille
+234,St. Augustine,Tunapuna-Piarco
+235,St. Barb's,San Juan-Laventille
+236,St. Clair,Port of Spain
+237,St. Helena,Tunapuna-Piarco
+238,St. James,Port of Spain
+239,St. Joseph,Tunapuna-Piarco
+240,St. Mary's,Couva-Tabaquite-Talparo
+241,Saint Madeleine,Princes Town
+242,San Fernando,San Fernando
+243,San Francique,Penal-Debe
+244,San Juan,San Juan-Laventille
+245,San Raphael,Couva-Tabaquite-Talparo
+246,Sans Souci,Sangre Grande
+247,Sangre Chiquito,Sangre Grande
+248,Sangre Grande,Sangre Grande
+249,Santa Cruz,San Juan-Laventille
+250,Santa Flora,Siparia
+251,Santa Margarita,Tunapuna-Piarco
+252,Santa Rosa,Arima
+253,Savonetta,Couva-Tabaquite-Talparo
+254,Scarborough,Tobago
+255,Signal Hill,Tobago
+256,Siparia,Siparia
+257,South Oropouche,Siparia
+258,Speyside,Tobago
+259,Studley Park,Tobago
+260,Spring Village,Tunapuna-Piarco
+261,Syne Village,Siparia
+262,Tabaquite,Couva-Tabaquite-Talparo
+263,Tableland,Princes Town
+264,Tacarigua,Tunapuna-Piarco
+265,Talparo,Couva-Tabaquite-Talparo
+266,Techier Village,Point Fortin
+267,Thick Village,Siparia
+268,Third Company,Princes Town
+269,Toco,Sangre Grande
+270,Tortuga,Couva-Tabaquite-Talparo
+271,Trincity,Tunapuna-Piarco
+272,Trou Macaque,San Juan-Laventille
+273,Tunapuna,Tunapuna-Piarco
+274,Union Village,Couva-Tabaquite-Talparo
+275,Valencia,Sangre Grande
+276,Valsayn,Tunapuna-Piarco
+277,Vega de Oropouche,Sangre Grande
+278,Vessigny,Siparia
+279,Vistabella,San Fernando
+280,Waterloo,Couva-Tabaquite-Talparo
+281,Westmoorings,Diego Martin
+282,Whiteland,Couva-Tabaquite-Talparo
+283,Williamsville,Princes Town
+284,Woodbrook,Port of Spain

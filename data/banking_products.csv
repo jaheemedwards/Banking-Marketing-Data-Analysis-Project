@@ -1,0 +1,10 @@
+product_id,product_name,product_type,interest_rate,min_balance,max_balance,fees,currency
+1,Basic Savings Account,Deposit,1.5,50,,10,TTD
+2,Premium Savings Account,Deposit,2.0,5000,,20,TTD
+3,Checking Account,Deposit,0.5,0,,15,TTD
+4,Personal Loan,Loan,10.0,1000,200000.0,0,TTD
+5,Home Loan,Loan,7.0,50000,1000000.0,0,TTD
+6,Credit Card,Credit,18.0,0,50000.0,50,TTD
+7,Investment Account,Investment,5.0,1000,,0,TTD
+8,Car Loan,Loan,8.0,5000,500000.0,0,TTD
+9,Retirement Account,Deposit,3.5,1000,,0,TTD
