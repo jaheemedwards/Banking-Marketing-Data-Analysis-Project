@@ -56,18 +56,7 @@ with tab1:
 
         components.html(video_html, height=546)     # actual video height
 
-    st.divider()
-
-    st.subheader("Download Full Dashboard Report")
-
-    with open("screenshots_and_video/Banking Marketing Data Analysis Project by Jaheem Edwards.pdf", "rb") as file:
-        st.download_button(
-            label="Download Dashboard PDF",
-            data=file,
-            file_name="screenshots_and_video/Banking Marketing Data Analysis Project by Jaheem Edwards.pdf.pdf",
-            mime="application/pdf"
-        )
-
+    
 # -------------------------
 # DATA ANALYSIS TAB
 # -------------------------
@@ -91,8 +80,6 @@ with tab2:
     for img in images:
         st.image(img)
 
-    
-
 
 # -------------------------
 # SCREENSHOTS TAB
@@ -100,6 +87,14 @@ with tab2:
 with tab3:
 
     st.header("Power BI Dashboard Screenshots")
+
+    with open("screenshots_and_video/Banking Marketing Data Analysis Project by Jaheem Edwards.pdf", "rb") as file:
+        st.download_button(
+            label="Download Dashboard PDF",
+            data=file,
+            file_name="screenshots_and_video/Banking Marketing Data Analysis Project by Jaheem Edwards.pdf.pdf",
+            mime="application/pdf"
+        )
 
     col1, col2 = st.columns(2)
 
